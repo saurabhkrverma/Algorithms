@@ -1,0 +1,29 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "Data Structures and Algorithms with JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjuprinceofpersia/Algorithms.git"
+  },
+  "keywords": [
+    "DS",
+    "Algo",
+    "JS"
+  ],
+  "author": "Saurabh Kumar Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjuprinceofpersia/Algorithms/issues"
+  },
+  "homepage": "https://github.com/sanjuprinceofpersia/Algorithms#readme",
+  "devDependencies": {
+    "tslint": "^5.18.0",
+    "typescript": "^3.5.3"
+  }
+}
